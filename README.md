@@ -31,16 +31,6 @@ npm install
 npm run dev
 ```
 
-## Usage
-
-### Standalone Testing
-
-You can test the MCP server directly:
-
-```bash
-npm start
-```
-
 ### MCP Client Integration
 
 #### GitHub Copilot
@@ -120,12 +110,6 @@ open-coffee-mcp/
 ├── package.json          # Dependencies and scripts
 ├── tsconfig.json         # TypeScript configuration
 └── README.md            # This file
-```
-
-### Building
-
-```bash
-npm run build
 ```
 
 ### Running in Development
