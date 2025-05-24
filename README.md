@@ -15,7 +15,7 @@ A Model Context Protocol (MCP) server that finds independent coffee shops in any
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/LluisPitarch/open-coffee-shops-mcp.git
 cd open-coffee-mcp
 ```
 
